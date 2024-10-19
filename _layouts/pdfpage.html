@@ -7,7 +7,6 @@ layout: base
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
     
-    <object data="assets/data/PN.pdf" width="1000" height="1000" type='application/pdf'></object>
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
       {% if page.before-content %}
         <div class="before-content">
@@ -17,6 +16,9 @@ layout: base
         </div>
       {% endif %}
 
+      <object data="assets/data/PN.pdf" width="1000" height="1000" type='application/pdf'></object>
+      <embed src="https://docs.google.com/document/d/e/2PACX-1vQbCpxP6t2pwQEZ9u7CtQNTZK_nEFrAN8RDQS6Xx7WR3Q-ZBp0r3SdfcLjm9jjPHg/pub" width="500" height="375" 
+ type="application/pdf">
       {{ content }}
 
       {% if page.after-content %}
