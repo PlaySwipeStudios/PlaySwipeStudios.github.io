@@ -1,5 +1,5 @@
 ---
-layout: pdfpage
+layout: page
 ---
 
 
