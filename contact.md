@@ -6,4 +6,4 @@ subtitle: We are always happy to hear from our devoted players!
 
 Please send us an email, we welcome all feedback from our players! 
 
-<playswipestudios@gmail.com>
+<playswipestudios+contact@gmail.com>
