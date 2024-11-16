@@ -1,3 +1,4 @@
 # app-ads.txt file:
 
 google.com, pub-5993216693807006, DIRECT, f08c47fec0942fa0
+facebook.com, 1584947215737563, DIRECT, c3e20eee3f780d68
